@@ -1,4 +1,4 @@
-# [Hola, Benjamín Guerrero]
+# [Hola, soy Benjamín Guerrero]
 
 Soy desarrollador web con 8 años de experiencia, hago tanto front-end como back-end
 
